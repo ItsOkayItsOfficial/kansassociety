@@ -1,49 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+<svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	y="0px" width="600px" height="500px" viewBox="0 0 600 500"
 	enable-background="new 0 0 600 500" xml:space="preserve">
-	<g>
 
-		<text transform="matrix(0.9729 0 0 0.85 0 352.6357)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="150.1628">K</text>
+		<text transform="matrix(1 0 0 0.85 0 350)" fill="#447394" font-family="Times"
+			font-size="150">KANSAS</text>
 
-		<text transform="matrix(0.9729 0 0 0.85 105 352.6357)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="150.1628">A</text>
+		<text transform="matrix(1 0 0 1 100 470)" fill="#447394" font-family="Georgia"
+			font-size="120">s</text>
 
-		<text transform="matrix(0.9729 0 0 0.85 220 352.6357)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="150.1628">N</text>
+		<text transform="matrix(1 0 0 1 155 470)" fill="#447394" font-family="Georgia"
+			font-size="120">o</text>
 
-		<text transform="matrix(0.9729 0 0 0.85 320 352.6357)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="150.1628">S</text>
+		<text transform="matrix(1 0 0 1 220 470)" fill="#447394" font-family="Georgia"
+			font-size="120">c</text>
 
-		<text transform="matrix(0.9729 0 0 0.85 403 352.6357)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="150.1628">A</text>
+		<text transform="matrix(1 0 0 1 283 470)" fill="#447394" font-family="Georgia"
+			font-size="120">i</text>
 
-		<text transform="matrix(0.9729 0 0 0.85 500 352.6357)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="150.1628">S</text>
+		<text transform="matrix(1 0 0 1 325 470)" fill="#447394" font-family="Georgia"
+			font-size="120">e</text>
 
-		<text transform="matrix(1 0 0 1 100 472.0518)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="120.1303">s</text>
+		<text transform="matrix(1 0 0 1 390 470)" fill="#447394" font-family="Georgia"
+			font-size="120">t</text>
 
-		<text transform="matrix(1 0 0 1 155 472.0518)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="120.1303">o</text>
-
-		<text transform="matrix(1 0 0 1 220 472.0518)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="120.1303">c</text>
-
-		<text transform="matrix(1 0 0 1 283 472.0518)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="120.1303">i</text>
-
-		<text transform="matrix(1 0 0 1 325 472.0518)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="120.1303">e</text>
-
-		<text transform="matrix(1 0 0 1 390 472.0518)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="120.1303">t</text>
-
-		<text transform="matrix(1 0 0 1 440 472.0518)" fill="#447394" font-family="'TrajanPro-Regular'"
-			font-size="120.1303">y</text>
+		<text transform="matrix(1 0 0 1 440 470)" fill="#447394" font-family="Georgia"
+			font-size="120">y</text>
 		<g>
 			<path fill="#F0B864" d="M303.337,0c-7.756,8.308-12.514,19.25-12.514,31.284s4.757,22.976,12.514,31.284
 			c7.756-8.308,12.513-19.25,12.513-31.284S311.093,8.308,303.337,0z" />
@@ -78,5 +63,4 @@
 			<path fill="#F0B864" d="M345.589,8.405c-10.345,4.708-18.928,12.996-23.533,24.114c-4.605,11.118-4.397,23.047-0.411,33.691
 			c10.345-4.708,18.927-12.996,23.533-24.114S349.575,19.049,345.589,8.405z" />
 		</g>
-	</g>
 </svg>
